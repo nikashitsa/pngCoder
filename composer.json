@@ -1,0 +1,19 @@
+{
+    "name": "nikashitsa/png-coder",
+    "description": "Encodes file to PNG image and decodes from it.",
+    "require": {
+        "php": ">=5.4.0",
+        "ext-gd": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "coder\\": "src/"
+        }
+    },
+    "config": {
+        "platform": {"php": "5.4"}
+    }
+}
