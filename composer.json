@@ -1,6 +1,7 @@
 {
     "name": "nikashitsa/png-coder",
     "description": "Encodes file to PNG image and decodes from it.",
+    "keywords": ["png", "encoder", "decoder"],
     "require": {
         "php": ">=5.4.0",
         "ext-gd": "*"
@@ -15,5 +16,6 @@
     },
     "config": {
         "platform": {"php": "5.4"}
-    }
+    },
+    "license": "GPL-2.0+"
 }
