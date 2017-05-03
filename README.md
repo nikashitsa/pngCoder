@@ -15,7 +15,7 @@ $coder->decode('./tmp/music.png', './tmp/music.mp3');
 
 Sometimes encoded files looks mysterious, but in common case it's just a noise:
 
-![Noise Image](https://s.neepic.com/X2Q6A8nz.png)
+![Noise Image](https://github.com/nikashitsa/pngCoder/blob/master/data/crime_encoded.png?raw=true)
 
 I don't know where this can be used :worried:. Feel free to add your suggestions [here](https://github.com/nikashitsa/pngCoder/issues) :wink:
 
